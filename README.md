@@ -1,16 +1,14 @@
-### Hi there 👋
+ <div align=center> 
+ <h1>HELLO :)</h1>
+ </div>
 
-<!--
-**skgml7593/skgml7593** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center> 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=skgml0606)](https://solved.ac/skgml0606)
 
-Here are some ideas to get you started:
+<img src="http://mazandi.herokuapp.com/api?handle=skgml0606&theme=warm"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
